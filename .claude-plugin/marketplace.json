@@ -1,6 +1,6 @@
 {
   "name": "photo2skin",
-  "description": "Photo2Skin's AI Minecraft tools for Claude Code: AI skins, AI builds, real-world maps and more.",
+  "description": "Photo2Skin's AI tools for Minecraft for Claude Code: AI skins, AI builds, real-world maps and more.",
   "owner": {
     "name": "Photo2Skin",
     "email": "admin@photo2skin.com"
@@ -9,7 +9,7 @@
     {
       "name": "photo2skin",
       "source": "./",
-      "description": "AI Minecraft tools: AI skins from a photo or prompt, AI builds, real-world maps, textures and more."
+      "description": "AI tools for Minecraft: skins from a photo or prompt, AI builds, real-world maps, textures and more."
     }
   ]
 }

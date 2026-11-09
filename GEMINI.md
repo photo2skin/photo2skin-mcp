@@ -1,7 +1,7 @@
 
 # Photo2Skin
 
-Photo2Skin is AI Minecraft tools, for players and for creators who make Minecraft characters for
+Photo2Skin is a set of AI tools for Minecraft, for players and for creators who make Minecraft characters for
 videos or design skins for others.
 
 1. **AI skins** — the main one: real, playable 64x64 Minecraft skins just by chatting, from a photo

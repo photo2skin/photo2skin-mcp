@@ -1,8 +1,8 @@
 <p align="center"><img src="logo.png" width="96" alt="Photo2Skin logo"></p>
 
-# Photo2Skin — AI Minecraft tools for AI agents
+# Photo2Skin — AI tools for Minecraft, for AI agents
 
-**AI Minecraft tools: AI skins from a photo or prompt, AI builds, real-world maps, textures and more.**
+**AI tools for Minecraft: skins from a photo or prompt, AI builds, real-world maps, textures and more.**
 Connect Photo2Skin to Claude, ChatGPT, Cursor, VS Code, Gemini CLI or any MCP client and make
 Minecraft things just by chatting.
 

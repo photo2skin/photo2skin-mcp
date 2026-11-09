@@ -1,11 +1,11 @@
 ---
 name: photo2skin
-description: Photo2Skin's AI Minecraft tools — above all AI skins (make and edit Minecraft skins just by chatting, from a photo or a description, then changes in words), plus AI builds (castles, houses, ships… from a description or a photo), real places as playable Minecraft worlds, and more (a skin grabber, a skin library, Minecraft-style pixel art). Use when the user wants a Minecraft skin (for playing, or a character for a video or a client), a player's skin, a Minecraft build or structure, a Minecraft map of a real place, or Minecraft-style pixel art.
+description: Photo2Skin's AI tools for Minecraft — above all AI skins (make and edit Minecraft skins just by chatting, from a photo or a description, then changes in words), plus AI builds (castles, houses, ships… from a description or a photo), real places as playable Minecraft worlds, and more (a skin grabber, a skin library, Minecraft-style pixel art). Use when the user wants a Minecraft skin (for playing, or a character for a video or a client), a player's skin, a Minecraft build or structure, a Minecraft map of a real place, or Minecraft-style pixel art.
 ---
 
 # Photo2Skin
 
-Photo2Skin is AI Minecraft tools, for players and for creators who make Minecraft characters for
+Photo2Skin is a set of AI tools for Minecraft, for players and for creators who make Minecraft characters for
 videos or design skins for others.
 
 1. **AI skins** — the main one: real, playable 64x64 Minecraft skins just by chatting, from a photo
