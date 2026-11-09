@@ -1,23 +1,15 @@
-
 # Photo2Skin
 
-Photo2Skin is a set of AI tools for Minecraft, for players and for creators who make Minecraft characters for
-videos or design skins for others.
-
-1. **AI skins** — the main one: real, playable 64x64 Minecraft skins just by chatting, from a photo
-   or a description, then any change in words ("add a red cape"), to a skin the user made here, a
-   real skin they already have (the one they wear in Minecraft, or a skin PNG), or a library skin.
-2. **AI builds** — Minecraft structures from a description or a photo, to walk around in 3D and
-   download for Java or Bedrock.
-3. **Real-world maps** — any place on Earth as a playable Minecraft world (Java and Bedrock).
-4. **Textures** — AI texture packs, on the website (not a tool here): made at
-   https://app.photo2skin.com/texture-packs; players' public packs are free at
-   https://app.photo2skin.com/textures.
-5. **And more** — a skin grabber for any Java player, a free skin library and builds library, and
-   Minecraft-style pixel art from a photo. Roblox avatar to Minecraft skin is on the website, not a
-   tool: https://app.photo2skin.com/roblox-to-minecraft-skin.
-
-Not an official Minecraft product; not affiliated with Mojang or Microsoft.
+Photo2Skin is a set of AI tools for Minecraft. Its main one makes real, playable 64x64 Minecraft
+skins just by chatting: from a photo or a description, then any change in words ("add a red cape"),
+to a skin the user made here, a real skin they already have (the one they wear in Minecraft, or a
+skin PNG), or a library skin. It also grabs any Java player's skin, turns photos into
+Minecraft-style pixel art, makes Minecraft builds from a description or a photo, builds real places
+as Minecraft worlds (Java and Bedrock), and has a free skin library and a library of builds. For players and for creators who make Minecraft characters for videos or design
+skins for others. Turning a Roblox avatar into a Minecraft skin is on the website, not a tool:
+https://app.photo2skin.com/roblox-to-minecraft-skin. AI texture packs are on the website too, not
+a tool: made at https://app.photo2skin.com/texture-packs, and players' public packs are free to
+download from https://app.photo2skin.com/textures. Not an official Minecraft product.
 
 ## Connect (once)
 

@@ -1,27 +1,20 @@
 ---
 name: photo2skin
-description: Photo2Skin's AI tools for Minecraft — above all AI skins (make and edit Minecraft skins just by chatting, from a photo or a description, then changes in words), plus AI builds (castles, houses, ships… from a description or a photo), real places as playable Minecraft worlds, and more (a skin grabber, a skin library, Minecraft-style pixel art). Use when the user wants a Minecraft skin (for playing, or a character for a video or a client), a player's skin, a Minecraft build or structure, a Minecraft map of a real place, or Minecraft-style pixel art.
+description: Photo2Skin's AI tools for Minecraft — make and edit Minecraft skins just by chatting (from a photo or a description, then changes in words), grab any Java player's skin, search a skin library, make Minecraft builds (castles, houses, ships…) from a description or a photo, make Minecraft-style pixel art from a photo, and turn real places into playable Minecraft worlds. Use when the user wants a Minecraft skin (for playing, or a character for a video or a client), a player's skin, a Minecraft build or structure, a Minecraft map of a real place, or Minecraft-style pixel art.
 ---
 
 # Photo2Skin
 
-Photo2Skin is a set of AI tools for Minecraft, for players and for creators who make Minecraft characters for
-videos or design skins for others.
-
-1. **AI skins** — the main one: real, playable 64x64 Minecraft skins just by chatting, from a photo
-   or a description, then any change in words ("add a red cape"), to a skin the user made here, a
-   real skin they already have (the one they wear in Minecraft, or a skin PNG), or a library skin.
-2. **AI builds** — Minecraft structures from a description or a photo, to walk around in 3D and
-   download for Java or Bedrock.
-3. **Real-world maps** — any place on Earth as a playable Minecraft world (Java and Bedrock).
-4. **Textures** — AI texture packs, on the website (not a tool here): made at
-   https://app.photo2skin.com/texture-packs; players' public packs are free at
-   https://app.photo2skin.com/textures.
-5. **And more** — a skin grabber for any Java player, a free skin library and builds library, and
-   Minecraft-style pixel art from a photo. Roblox avatar to Minecraft skin is on the website, not a
-   tool: https://app.photo2skin.com/roblox-to-minecraft-skin.
-
-Not an official Minecraft product; not affiliated with Mojang or Microsoft.
+Photo2Skin is a set of AI tools for Minecraft. Its main one makes real, playable 64x64 Minecraft
+skins just by chatting: from a photo or a description, then any change in words ("add a red cape"),
+to a skin the user made here, a real skin they already have (the one they wear in Minecraft, or a
+skin PNG), or a library skin. It also grabs any Java player's skin, turns photos into
+Minecraft-style pixel art, makes Minecraft builds from a description or a photo, builds real places
+as Minecraft worlds (Java and Bedrock), and has a free skin library and a library of builds. For players and for creators who make Minecraft characters for videos or design
+skins for others. Turning a Roblox avatar into a Minecraft skin is on the website, not a tool:
+https://app.photo2skin.com/roblox-to-minecraft-skin. AI texture packs are on the website too, not
+a tool: made at https://app.photo2skin.com/texture-packs, and players' public packs are free to
+download from https://app.photo2skin.com/textures. Not an official Minecraft product.
 
 ## Connect (once)
 
