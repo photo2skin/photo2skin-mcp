@@ -1,0 +1,24 @@
+{
+  "name": "photo2skin",
+  "version": "1.0.1",
+  "description": "AI Minecraft tools: AI skins from a photo or prompt, AI builds, real-world maps, textures and more.",
+  "author": {
+    "name": "Photo2Skin",
+    "email": "admin@photo2skin.com",
+    "url": "https://photo2skin.com"
+  },
+  "homepage": "https://app.photo2skin.com/agents",
+  "repository": "https://github.com/photo2skin/photo2skin-mcp",
+  "license": "MIT",
+  "keywords": [
+    "minecraft",
+    "skins",
+    "ai",
+    "builds",
+    "maps",
+    "textures",
+    "gaming",
+    "mcp"
+  ],
+  "icon": "logo.png"
+}
