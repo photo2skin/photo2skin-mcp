@@ -1,6 +1,6 @@
 {
   "name": "photo2skin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "AI Minecraft tools: AI skins from a photo or prompt, AI builds, real-world maps, textures and more.",
   "mcpServers": {
     "photo2skin": {
